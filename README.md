@@ -28,3 +28,7 @@ GPS - Xiao connections:
 **Transmitter diagram:**
 
 <img width="3000" height="1741" alt="circuit_image (1)" src="https://github.com/user-attachments/assets/2529dc81-3885-4ca0-b9b0-5888f9ab2082" />
+
+# Flutter App
+Download the app directly using app-release.apk.
+The Flutter App files are provided in the Flutter_App folder incase the app needs to be edited
